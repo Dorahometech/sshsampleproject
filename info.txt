@@ -1,3 +1,4 @@
 I am learning git
 I am modifying this file to see the git pull command demo
 I am modifying this file to see the git merge command
+conflict demo updated in local
